@@ -1,1 +1,9 @@
-# Parcial01_Grupo8VersionFinal
+# Parcial01_Grupo8
+
+- INTEGRANTES:
+
+  - SANTANA MARÍA BELEN
+
+  - VARDÉ TUSÉ SOFIA
+
+  - BORDETA SOLANGE
